@@ -15,19 +15,19 @@ pip install tk
 Then copy this code, after that run terminal in linux (Ctrl + Alt + T). find where you saved the program, for example:
 /home/Damien/Desktop/Mp3-player/
 
-After that type ls in the terminal, it works to see all the files that are in the home folder, then type:
+After that type ls in the terminal, it works to see all the files that are in the Mp3-Player folder, then type:
 python MP3-Player.py
 
 And the program will run, to stop it you can click the X in the left corner of the application or Ctrl + C in the terminal
 
->>Translation<<
+[Translation]
 Pertama-tama install tkinter:
 pip install tk
 
 Lalu salin kode ini, setelah itu jalankan terminal di linux (Ctrl + Alt + T). cari dimana kalian menyimpan programnya, contoh:
 /home/Damien/Desktop/Mp3-player/
 
-Setelah itu ketik ls di terminal, ini berfungsi untuk melihat semua file yang ada di folder home, lalu ketik:
+Setelah itu ketik ls di terminal, ini berfungsi untuk melihat semua file yang ada di folder Mp3-Player, lalu ketik:
 python MP3-Player.py
 
 Dan program akan berjalan, untuk menghentikannya bisa dengan mengklik tanda X di pojok kiri aplikasi atau Ctrl+C di terminal
