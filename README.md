@@ -1,18 +1,23 @@
+
 # MP3-Player
-# Deskripsi
 Ini adalah kode untuk membuat aplikasi MP3 Player atau aplikasi pemutar musik, meskipun terlihat sederhana tapi aplikasi ini masih bisa di tingkatkan menjadi lebih baik. kode yang dipakai hanyalah bahasa pemrograman python.
 
-# Perogram yang digunakan
-Python
 
-# Cara menjalankan Program
-Pertama-tama install tkinter:
-pip install tk
+## Installation
 
-Lalu salin kode ini, setelah itu jalankan terminal di linux (Ctrl + Alt + T). cari dimana kalian menyimpan programnya, contoh:
-/home/Damien/Desktop/Mp3-player/
+Ada beberapa paket dan library yang harus diunduh sebelum menjalankan kode jika tidak maka kode tersebut tidak akan berjalan.
 
-Setelah itu ketik ls di terminal, ini berfungsi untuk melihat semua file yang ada di folder Mp3-Player, lalu ketik:
-python MP3-Player.py
+```bash
+  sudo apt update
+  sudo apt install python3-pip
+  sudo apt install python-pip
+  pip install tk
+```
 
-Dan program akan berjalan, untuk menghentikannya bisa dengan mengklik tanda X di pojok kiri aplikasi atau Ctrl+C di terminal
+
+## Tech Stack
+Python Programming Language
+
+## Screenshots
+
+![Project](https://user-images.githubusercontent.com/66536460/143170549-e41c5e53-f97a-484f-9eb9-d4bf817a00b7.png)
